@@ -7,7 +7,7 @@ $db_server = 'localhost';
 // Usuario
 $db_user = 'root';
 // Senha
-$db_password = '1000ton';
+$db_password = 'xxxxxx';
 // Banco de Dados
 $db_database = 'academico';
 
