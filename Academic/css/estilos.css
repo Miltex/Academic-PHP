@@ -1,0 +1,36 @@
+/* 
+    Document   : estilos
+    Created on : 16/07/2011, 14:31:36
+    Author     : Milton
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+body
+{
+font-size:75%;
+font-family:"lucida calligraphy",arial,'sans serif';
+background-color:#DCDCDC;
+color:#8A2BE2;
+margin:10px;
+}
+
+div.menu{
+   padding-bottom: 10px;
+
+}
+div.menu:hover a{
+    color: red;
+}
+div.menu a { 
+    text-decoration:none;  
+}
+div.menu a:hover{
+  text-decoration:overline;
+  color: orange;
+}
+
